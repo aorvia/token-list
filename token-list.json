@@ -79253,4 +79253,10 @@
         "decimals": 0,
         "logo": "https://raw.githubusercontent.com/jeffreydrew/pandacoin/main/pandafinal.png"
     }
+},
+"4tyGJKQnad687yMBCw6pqZttvgzo9qZ6tkekXU5pAngU": {
+  "name": "Aorvia",
+  "symbol": "AORV",
+  "decimals": 6,
+  "logo": "https://aorvia.com/token/aorv.png"
 }
